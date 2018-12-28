@@ -1,11 +1,10 @@
 # Team Roundup bot: A Probot App
 
-this is a description of the bot
+This is a Probot nice long description
 
 ## What it does
 
-this is what the bot will do.
-
+The probot can do a lot of things!
 
 ## Getting started
 
