@@ -1,1 +1,1 @@
-CONTRIBUTOR CODE
+mycode@someonesbox.com
