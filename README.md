@@ -1,10 +1,11 @@
 # Team Roundup bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+this is a description of the bot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+this is what the bot will do.
+
 
 ## Getting started
 
