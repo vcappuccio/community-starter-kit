@@ -19,3 +19,12 @@ There are many ways you can help us make this project better. Every repository i
 - **help-wanted**: wanted wanted
 
 You can also help by translating documentation and reviewing open pull requests.
+
+
+bug
+duplicate
+enhancement
+help wanted
+invalid
+question
+wontfix
